@@ -12,5 +12,6 @@ Instructions in Cisco Packet Tracer environment to better understand topics list
 * SSH - Secure Shell
 * Static and Dynamic Routing
 * STP - Spanning Tree Protocol
+* VTP - Vlan Trunnking Protocol
 
 Intructions were made in polish language.
